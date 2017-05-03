@@ -1,0 +1,8 @@
+<section>
+  
+    <h1><%= gettext "Welcome to %{name}!", name: "Boardgame Matcher!" %></h1>
+    <p class="lead">A fantastic blog for all things Jørgen.</p>
+  
+</section>
+
+
